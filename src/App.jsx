@@ -1,7 +1,9 @@
+import Grid from 'components/Grid/Grid';
+
 const App = () => {
     return (
         <>
-            Hello world
+            <Grid />
         </>
     );
 };
